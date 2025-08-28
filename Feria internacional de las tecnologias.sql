@@ -1,4 +1,3 @@
--- Crear tablas
 
 CREATE TABLE stands (
     id_stands INT PRIMARY KEY,
